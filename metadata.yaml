@@ -1,0 +1,28 @@
+_repo: '---_26931'
+_version: 0.1.0
+alternative_title: Feng Yue Meng
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hanshangmengren, active 19th century
+    aliases:
+    - Han-shang-meng-jen
+    - 邗上蒙人
+    gutenberg_agent_id: '32341'
+    url: http://www.gutenberg.org/2009/agents/32341
+description: ''
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26931'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 風月夢
+url: http://www.gutenberg.org/ebooks/26931
